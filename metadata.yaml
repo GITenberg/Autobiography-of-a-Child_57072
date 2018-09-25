@@ -1,0 +1,22 @@
+_repo: Autobiography-of-a-Child_57072
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lynch, Hannah
+    birthdate: 1859
+    deathdate: 1904
+    gutenberg_agent_id: '43709'
+    url: http://www.gutenberg.org/2009/agents/43709
+description: ''
+gutenberg_issued: '2018-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57072'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Autobiography of a Child
+url: http://www.gutenberg.org/ebooks/57072
